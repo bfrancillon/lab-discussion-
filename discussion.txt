@@ -1,0 +1,14 @@
+ https://github.com/marketplace/logrocket
+I find LogRockey very interested because it lets you replay problems as if they happened in your own browser, instead of wondering why we have errors, we can replay sessions to understand what caused the error.
+
+https://github.com/PolySync/oscc
+OSCC is an assemblage of software and hardware designs that enable computer control of modern cars in order to facilitate the development of autonomous vehicle technology.It is a modular and stable way of using software to interface with a vehicle’s communications network and control systems.While all OSCC modules have operator override detection enabled by default, attempting to grab the steering wheel while the system is active could result in serious injury. The preferred method of operator override for steering is to utilize the brake pedal or E-stop button. To disable operator override for the steering module, pass an additional flag to the CMake build step.
+
+https://github.com/microsoft/ML-For-Beginners
+In this curriculum, i will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum. I love learning about AI becasuemy carrer will be based on that.
+
+https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files
+i didnt know how to create new files on Github. it shoed me each step that i need to make a complete file work.
+
+https://github.com/TheAlgorithms
+Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language. i know that i am not the best when it comes to data structures and algorithms, thats why i feel like it will help me
